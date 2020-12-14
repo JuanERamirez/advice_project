@@ -3,9 +3,7 @@ Taking this as inspiration for future planned React projects...
 
 ~JER~
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with this Advice React App
 
 In the project directory, you can run:
 
